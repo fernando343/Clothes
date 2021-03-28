@@ -68,8 +68,7 @@
   }
 }
 .logo img{
-      width: 10rem;
-      filter: invert(1);
+      width: 5rem;
       padding: 10px;
 }
 .menu{
